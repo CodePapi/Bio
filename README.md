@@ -5,3 +5,4 @@
 - 📫 You can always reach out to me through:
     - Twitter - [@CodePapi_](https://twitter.com/CodePapi_)
     - Email - [oshiesam@gmail.com](mailto:oshiesam@gmail.com)
+    - Read some of my cool articles on [Dev To](https://dev.to/codepapi)
